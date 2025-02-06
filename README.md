@@ -142,13 +142,12 @@ Main dependencies include:
 
 ## License
 
-[Add your license information here]
+
 
 ## Authors
 
-[Add author information here]
+Aum Parmar
 
 ## Acknowledgments
 
 - NSL-KDD dataset providers
-- [Add other acknowledgments]
