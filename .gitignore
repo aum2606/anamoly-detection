@@ -56,3 +56,5 @@ Thumbs.db
 .Python
 *.manifest
 *.spec
+
+.codegpt
